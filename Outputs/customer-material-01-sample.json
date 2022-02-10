@@ -1,0 +1,29 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-customer-material-reads/SAP_API_Caller/caller.go#L52",
+	"function": "sap-api-integrations-customer-material-reads/SAP_API_Caller.(*SAPAPICaller).CustomerMaterial",
+	"level": "INFO",
+	"message": [
+		{
+			"SalesOrganization": "1010",
+			"DistributionChannel": "10",
+			"Customer": "10100001",
+			"Material": "FG012",
+			"MaterialByCustomer": "",
+			"MaterialDescriptionByCustomer": "",
+			"Plant": "",
+			"DeliveryPriority": "0",
+			"MinDeliveryQtyInBaseUnit": "0",
+			"BaseUnit": "PC",
+			"PartialDeliveryIsAllowed": "",
+			"MaxNmbrOfPartialDelivery": "0",
+			"UnderdelivTolrtdLmtRatioInPct": "0.0",
+			"OverdelivTolrtdLmtRatioInPct": "0.0",
+			"UnlimitedOverdeliveryIsAllowed": false,
+			"CustomerMaterialItemUsage": "",
+			"SalesUnit": "",
+			"SalesQtyToBaseQtyDnmntr": "0",
+			"SalesQtyToBaseQtyNmrtr": "0"
+		}
+	],
+	"time": "2022-01-27T22:06:11+09:00"
+}
